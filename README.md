@@ -2,8 +2,6 @@
 
 A modern web application that allows users to upload PDF or text files and chat with their content using Google's Gemini AI model. The application features a beautiful and intuitive user interface with real-time chat capabilities.
 
-![PDF Chatbot Screenshot](screenshot.png)
-
 ## ✨ Features
 
 - 📄 Upload PDF and text files with drag-and-drop interface
